@@ -36,7 +36,6 @@ for (let l1 of pronoun) {
 
 
 
-
 //Metodo Extenso con el aprobechando la extensión :
 var combinacion = [];
 for (let i = 0; i < pronoun.length; i++) {
